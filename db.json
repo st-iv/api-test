@@ -1,22 +1,31 @@
-[
-  {
-    "postId": -1,
-    "id": 1,
-    "name": "id labore ex et quam laborum"
-  },
-  {
-    "postId": -1,
-    "id": 2,
-    "name": "quo vero reiciendis velit similique earum"
-  },
-  {
-    "postId": 1,
-    "id": 3,
-    "name": "odio adipisci rerum aut animi"
-  },
-  {
-    "postId": 1,
-    "id": 4,
-    "name": "alias odio sit"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
