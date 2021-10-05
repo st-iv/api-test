@@ -7,24 +7,10 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.359845,
-          59.928808
+          59.928808,
+          30.359845
         ]
-      },
-      "geometry_name": "geometry"
-    },
-    {
-      "type": "Feature",
-      "id": "geoplatform_trade_points_rtk.fid-62f364a1_17c4fc9b53b_5f3d",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.362148,
-          59.92969
-        ]
-      },
-      "geometry_name": "geometry"
+      }
     }
-  ],
-  "totalFeatures": 25
+  ]
 }
