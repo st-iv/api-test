@@ -2,7 +2,23 @@
   "features": [
     {
       "id": 1,
-      "title": "hello2"
+      "title": "Placemark 1",
+      "coords": [55.831903, 37.411961]
+    },
+    {
+      "id": 2,
+      "title": "Placemark 2",
+      "coords": [55.763338, 37.565466]
+    },
+    {
+      "id": 3,
+      "title": "Placemark 3",
+      "coords": [55.763338, 37.565466]
+    },
+    {
+      "id": 4,
+      "title": "Placemark 4",
+      "coords": [55.744522, 37.616378]
     }
   ]
 }
